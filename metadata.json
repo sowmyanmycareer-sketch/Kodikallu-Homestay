@@ -1,0 +1,6 @@
+{
+  "name": "Kodikallu Homestay",
+  "description": "Official website for Kodikallu Homestay (ಕೋಡಿಕಲ್ಲು ತಂಗುದಾಣ) near Tadikavagilu, Karnataka. Nature resort with serene hill views, pool, campfire, and authentic home-cooked meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
